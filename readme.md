@@ -6,4 +6,4 @@ Consist of study on optimisation of UUV hull shape using different DOEs and opti
  5. Bayeisan optimisation using Expected Improvement
  6. Bayesian optimisation using UCB 
  
-![Alt text](./data_plots/uuv_optmisation_study.jpg?raw=true "Title")
+![Alt text](./data_plots/uuv_optimisation_study.jpg?raw=true "Title")
