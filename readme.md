@@ -9,4 +9,4 @@ Consist of study on optimisation of UUV hull shape using different DOEs and opti
 ![Alt text](https://github.com/vardhah/Optimisation_of_UUV_hull_shape/blob/main/data_plots/uuv_optimisation_study.png)
 
 Result of optimisation is : 
-![Alt text](https://github.com/vardhah/Optimisation_of_UUV_hull_shape/blob/main/data_plots/result.png)
+![Alt text](https://github.com/vardhah/Optimisation_of_UUV_hull_shape/blob/main/data_plots/results.png)
